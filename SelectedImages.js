@@ -1,6 +1,4 @@
 (function (){
-/*javascript:(function(){var s=document.createElement('script');s.src='https://~~.js';document.body.appendChild(s);})()*/
-
 var aArray = [];
 var e = document.createElement('div');
 e.setAttribute("id","filelist");
